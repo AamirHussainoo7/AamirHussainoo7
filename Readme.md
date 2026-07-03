@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aamir Hussain</h1>
 
 <h3 align="center">
-Full Stack & Backend Developer 🚀
+Full Stack Developer 🚀
 </h3>
 
 <p align="center">
