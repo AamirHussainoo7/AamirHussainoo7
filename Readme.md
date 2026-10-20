@@ -9,7 +9,7 @@ Building scalable web applications, AI-powered tools, and modern backend systems
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Engineer;MERN+%2B+Django+Developer;Building+AI+Powered+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Engineer;Building+AI+Powered+Projects" />
 </p>
 
 ---
